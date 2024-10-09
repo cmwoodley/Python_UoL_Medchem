@@ -1,0 +1,598 @@
+stop_date,stop_time,county_name,driver_gender,driver_age_raw,driver_age,driver_race,violation_raw,violation,search_conducted,search_type,stop_outcome,is_arrested,stop_duration,drugs_related_stop
+2015-12-01,01:07,,M,1987.0,28.0,Hispanic,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-01,06:11,,M,1992.0,23.0,White,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-01,06:47,,M,1960.0,55.0,White,Other Traffic Violation,Moving violation,True,Probable Cause,Citation,False,16-30 Min,True
+2015-12-01,08:00,,M,1995.0,20.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-01,08:59,,F,1990.0,25.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-01,09:35,,M,1949.0,66.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-01,10:18,,F,1975.0,40.0,Black,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-01,11:14,,F,1983.0,32.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-01,11:39,,M,1987.0,28.0,Hispanic,Seatbelt Violation,Seat belt,False,,Warning,False,0-15 Min,False
+2015-12-01,14:16,,F,1995.0,20.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-01,15:22,,M,1939.0,76.0,Black,Call for Service,Other,False,,No Action,False,16-30 Min,False
+2015-12-01,18:07,,M,1986.0,29.0,White,Equipment/Inspection Violation,Equipment,True,Incident to Arrest,Citation,False,0-15 Min,False
+2015-12-01,22:50,,M,1994.0,21.0,White,Registration Violation,Registration/plates,False,,Warning,False,0-15 Min,False
+2015-12-01,23:30,,F,1996.0,19.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-02,00:30,,M,1984.0,31.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-02,00:40,,M,1970.0,45.0,Black,Seatbelt Violation,Seat belt,False,,Warning,False,0-15 Min,False
+2015-12-02,00:46,,F,1978.0,37.0,Black,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-02,01:52,,M,1956.0,59.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-02,07:26,,M,1964.0,51.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-02,07:37,,M,1987.0,28.0,Black,Call for Service,Other,False,,Arrest Driver,True,0-15 Min,False
+2015-12-02,09:34,,,,,,,,False,,,,,False
+2015-12-02,09:35,,M,1983.0,32.0,Black,Other Traffic Violation,Moving violation,True,Inventory,Citation,False,30+ Min,False
+2015-12-02,10:35,,M,1975.0,40.0,Black,Special Detail/Directed Patrol,Other,False,,No Action,False,16-30 Min,False
+2015-12-02,14:02,,M,1989.0,26.0,White,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-02,15:49,,,,,,,,False,,,,,False
+2015-12-02,22:41,,,,,,,,False,,,,,False
+2015-12-02,22:56,,M,1969.0,46.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-02,23:20,,M,1994.0,21.0,White,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-02,23:31,,M,1988.0,27.0,White,Equipment/Inspection Violation,Equipment,False,,N/D,False,0-15 Min,False
+2015-12-03,00:13,,M,1977.0,38.0,Hispanic,Other Traffic Violation,Moving violation,False,,Arrest Driver,True,0-15 Min,False
+2015-12-03,00:25,,M,1995.0,20.0,White,Other Traffic Violation,Moving violation,False,,Warning,False,16-30 Min,False
+2015-12-03,02:11,,F,1994.0,21.0,Hispanic,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-03,02:26,,M,1980.0,35.0,Black,Motorist Assist/Courtesy,Other,False,,No Action,False,16-30 Min,False
+2015-12-03,02:28,,M,1984.0,31.0,Black,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-03,02:57,,M,1996.0,19.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-03,06:18,,F,1955.0,60.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-03,06:28,,M,1957.0,58.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-03,06:36,,M,1971.0,44.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-03,06:48,,F,1982.0,33.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-03,06:55,,M,1963.0,52.0,White,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-03,07:16,,F,1989.0,26.0,White,Seatbelt Violation,Seat belt,False,,Warning,False,0-15 Min,False
+2015-12-03,07:29,,M,1993.0,22.0,White,Call for Service,Other,False,,Citation,False,0-15 Min,False
+2015-12-03,08:15,,F,1978.0,37.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-03,10:11,,M,1991.0,24.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-03,11:11,,F,1986.0,29.0,White,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-03,11:38,,M,1952.0,63.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-03,11:53,,F,1964.0,51.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-03,12:16,,F,1983.0,32.0,Black,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-03,12:36,,M,1987.0,28.0,White,Violation of City/Town Ordinance,Other,False,,Citation,False,0-15 Min,False
+2015-12-03,14:27,,F,1995.0,20.0,White,Seatbelt Violation,Seat belt,False,,Warning,False,0-15 Min,False
+2015-12-03,14:48,,M,1991.0,24.0,Hispanic,Other Traffic Violation,Moving violation,True,Inventory,Citation,False,16-30 Min,True
+2015-12-03,15:59,,M,1986.0,29.0,Black,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-03,16:04,,F,1979.0,36.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-03,23:10,,M,1990.0,25.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-03,23:35,,F,1980.0,35.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-03,23:55,,F,1995.0,20.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-04,00:12,,M,1994.0,21.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-04,02:19,,M,1994.0,21.0,White,Speeding,Speeding,False,,Arrest Driver,True,0-15 Min,False
+2015-12-04,02:33,,M,1984.0,31.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-04,02:55,,M,1981.0,34.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-04,07:17,,F,1983.0,32.0,Black,Seatbelt Violation,Seat belt,False,,Warning,False,0-15 Min,False
+2015-12-04,07:59,,F,1975.0,40.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-04,08:15,,F,1991.0,24.0,Black,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-04,09:33,,F,1980.0,35.0,White,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-04,09:38,,M,1995.0,20.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-04,09:41,,M,1990.0,25.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-04,09:53,,F,1990.0,25.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-04,10:15,,M,1987.0,28.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-04,10:33,,F,1996.0,19.0,Asian,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-04,10:57,,M,1990.0,25.0,White,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-04,13:51,,M,1988.0,27.0,Hispanic,Other Traffic Violation,Moving violation,False,,Citation,False,16-30 Min,False
+2015-12-04,15:08,,M,1990.0,25.0,White,Seatbelt Violation,Seat belt,False,,Warning,False,0-15 Min,False
+2015-12-04,15:54,,M,1985.0,30.0,Asian,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-04,16:22,,M,1965.0,50.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-04,17:11,,M,1997.0,18.0,Hispanic,Call for Service,Other,False,,Citation,False,0-15 Min,False
+2015-12-04,18:15,,M,1986.0,29.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-04,19:15,,M,1997.0,18.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-04,19:21,,F,1976.0,39.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-04,20:04,,M,1962.0,53.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-05,01:54,,M,1982.0,33.0,White,Other Traffic Violation,Moving violation,False,,Arrest Driver,True,30+ Min,False
+2015-12-05,02:07,,F,1993.0,22.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-05,07:17,,M,1986.0,29.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-05,10:10,,M,1962.0,53.0,Asian,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-05,10:42,,M,1992.0,23.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-05,11:06,,,,,,,,False,,,,,False
+2015-12-05,11:42,,M,1975.0,40.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-05,12:16,,M,1964.0,51.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-05,12:16,,F,1970.0,45.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-05,12:29,,F,1995.0,20.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-05,14:25,,F,1949.0,66.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-05,16:10,,M,1984.0,31.0,White,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-05,17:40,,M,1963.0,52.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-05,23:12,,M,1992.0,23.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-05,23:16,,F,1995.0,20.0,Hispanic,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-05,23:26,,F,1982.0,33.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-05,23:33,,M,1974.0,41.0,Black,Registration Violation,Registration/plates,False,,No Action,False,16-30 Min,False
+2015-12-05,23:35,,M,1983.0,32.0,White,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-05,23:55,,M,1979.0,36.0,Hispanic,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-06,00:11,,M,1962.0,53.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-06,00:35,,M,1991.0,24.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-06,00:40,,F,1993.0,22.0,Hispanic,Other Traffic Violation,Moving violation,False,,Citation,False,16-30 Min,False
+2015-12-06,00:53,,M,1955.0,60.0,White,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-06,01:04,,F,1990.0,25.0,White,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-06,01:46,,M,1992.0,23.0,Black,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-06,04:19,,M,1990.0,25.0,Hispanic,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-06,05:29,,M,1987.0,28.0,White,Call for Service,Other,False,,Citation,False,30+ Min,False
+2015-12-06,06:46,,F,1980.0,35.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-06,08:48,,F,1984.0,31.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-06,09:37,,F,1994.0,21.0,White,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-06,10:33,,M,1993.0,22.0,Hispanic,Speeding,Speeding,True,Protective Frisk,Citation,False,16-30 Min,True
+2015-12-06,11:25,,M,1992.0,23.0,Black,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-06,11:36,,M,1964.0,51.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-06,12:51,,M,1995.0,20.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-06,13:11,,M,1977.0,38.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-06,13:45,,F,1994.0,21.0,White,Speeding,Speeding,False,,Citation,False,16-30 Min,False
+2015-12-06,13:50,,M,1989.0,26.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-06,14:18,,M,1991.0,24.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-06,14:32,,F,1983.0,32.0,White,Speeding,Speeding,False,,Citation,False,16-30 Min,False
+2015-12-06,14:43,,M,1973.0,42.0,Asian,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-06,14:48,,M,1976.0,39.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-06,14:54,,F,1988.0,27.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-06,14:58,,M,1993.0,22.0,White,Speeding,Speeding,False,,Citation,False,16-30 Min,False
+2015-12-06,15:51,,M,1989.0,26.0,White,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-06,16:21,,M,1986.0,29.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-06,16:34,,M,1989.0,26.0,Asian,Registration Violation,Registration/plates,False,,Warning,False,0-15 Min,False
+2015-12-06,16:45,,M,1968.0,47.0,White,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-06,19:59,,F,1997.0,18.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-06,20:06,,M,1967.0,48.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-06,20:20,,M,1957.0,58.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-06,20:57,,M,1961.0,54.0,White,Call for Service,Other,False,,Arrest Driver,True,0-15 Min,False
+2015-12-07,01:41,,M,1979.0,36.0,White,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-07,05:43,,M,1981.0,34.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-07,07:27,,M,1986.0,29.0,Black,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-07,09:49,,F,1991.0,24.0,White,Registration Violation,Registration/plates,False,,Warning,False,0-15 Min,False
+2015-12-07,10:06,,M,1990.0,25.0,Black,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-07,10:50,,M,1990.0,25.0,Hispanic,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-07,11:44,,M,1964.0,51.0,Asian,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-07,12:49,,M,1989.0,26.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-07,13:12,,M,1967.0,48.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-07,13:44,,M,1972.0,43.0,White,Seatbelt Violation,Seat belt,False,,Citation,False,30+ Min,False
+2015-12-07,14:10,,M,1976.0,39.0,White,Other Traffic Violation,Moving violation,True,Probable Cause,Arrest Passenger,True,30+ Min,True
+2015-12-07,14:17,,M,1990.0,25.0,White,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-07,14:18,,M,1985.0,30.0,Hispanic,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-07,14:32,,,,,,,,False,,,,,False
+2015-12-07,15:14,,,,,,,,False,,,,,False
+2015-12-07,16:30,,,,,,,,False,,,,,False
+2015-12-07,17:46,,,,,,,,False,,,,,False
+2015-12-07,20:45,,M,1986.0,29.0,White,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-07,22:21,,M,1986.0,29.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-07,23:06,,F,1992.0,23.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-07,23:39,,M,1984.0,31.0,Black,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-08,00:21,,M,1996.0,19.0,Hispanic,Seatbelt Violation,Seat belt,False,,Warning,False,0-15 Min,False
+2015-12-08,00:40,,M,1983.0,32.0,White,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-08,01:30,,M,1994.0,21.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Arrest Driver,True,0-15 Min,False
+2015-12-08,07:58,,F,1971.0,44.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-08,08:55,,M,1989.0,26.0,White,Call for Service,Other,False,,Citation,False,0-15 Min,False
+2015-12-08,10:25,,M,1965.0,50.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-08,10:28,,M,1993.0,22.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-08,13:45,,F,1996.0,19.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-08,13:58,,F,1991.0,24.0,Black,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-08,15:24,,,,,,,,False,,,,,False
+2015-12-08,23:11,,F,1974.0,41.0,Black,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-08,23:39,,M,1981.0,34.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-08,23:48,,F,1965.0,50.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-09,00:20,,M,1994.0,21.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-09,00:30,,M,1991.0,24.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-09,01:27,,M,1976.0,39.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-09,02:08,,M,1992.0,23.0,Black,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-09,02:35,,F,1975.0,40.0,White,Speeding,Speeding,False,,Citation,False,16-30 Min,False
+2015-12-09,03:06,,M,1985.0,30.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-09,03:19,,M,1996.0,19.0,Black,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-09,07:21,,M,1994.0,21.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-09,08:34,,M,1978.0,37.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-09,09:24,,F,1981.0,34.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-09,10:19,,M,1988.0,27.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-09,10:23,,M,1994.0,21.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-09,10:23,,F,1990.0,25.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-09,10:25,,M,1947.0,68.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-09,10:37,,F,1977.0,38.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-09,15:26,,M,1951.0,64.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-09,15:54,,F,1958.0,57.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-09,16:54,,M,1975.0,40.0,White,Call for Service,Other,False,,No Action,False,16-30 Min,False
+2015-12-09,17:21,,F,1957.0,58.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-09,17:42,,M,1995.0,20.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-09,20:09,,F,1969.0,46.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-09,22:45,,,,,,,,False,,,,,False
+2015-12-09,23:14,,M,1990.0,25.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-09,23:51,,M,1991.0,24.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-10,01:09,,M,1979.0,36.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-10,01:43,,M,1967.0,48.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-10,02:24,,M,1986.0,29.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-10,02:57,,F,1978.0,37.0,White,Equipment/Inspection Violation,Equipment,False,,N/D,False,0-15 Min,False
+2015-12-10,08:51,,F,1984.0,31.0,Hispanic,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-10,10:10,,F,1966.0,49.0,White,Registration Violation,Registration/plates,False,,Warning,False,0-15 Min,False
+2015-12-10,11:17,,F,1992.0,23.0,Black,Equipment/Inspection Violation,Equipment,False,,Citation,False,16-30 Min,False
+2015-12-10,11:50,,F,1989.0,26.0,Hispanic,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-10,14:07,,F,1994.0,21.0,White,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-10,15:12,,M,1994.0,21.0,Black,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-10,18:27,,M,1979.0,36.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-10,20:33,,M,1995.0,20.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-10,23:04,,M,1982.0,33.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-10,23:32,,F,1988.0,27.0,Black,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-11,00:12,,F,1990.0,25.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-11,00:14,,M,1987.0,28.0,White,Speeding,Speeding,False,,Warning,False,16-30 Min,False
+2015-12-11,01:19,,M,1990.0,25.0,Black,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-11,01:19,,,,,,,,False,,,,,False
+2015-12-11,03:10,,M,1992.0,23.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-11,06:06,,M,1976.0,39.0,White,Violation of City/Town Ordinance,Other,False,,Citation,False,0-15 Min,False
+2015-12-11,07:25,,F,1988.0,27.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-11,09:22,,M,1994.0,21.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-11,10:56,,M,1995.0,20.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-11,11:06,,F,1973.0,42.0,Asian,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-11,11:30,,M,1969.0,46.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-11,12:00,,F,1991.0,24.0,Hispanic,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-11,12:27,,M,1989.0,26.0,Black,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-11,12:32,,M,1973.0,42.0,Hispanic,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-11,13:56,,M,1997.0,18.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-11,14:37,,F,1987.0,28.0,White,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-11,16:14,,F,1984.0,31.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-11,16:30,,M,1993.0,22.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-11,17:56,,F,1965.0,50.0,Hispanic,Call for Service,Other,False,,Citation,False,0-15 Min,False
+2015-12-11,20:25,,M,1974.0,41.0,Asian,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-11,20:43,,M,1986.0,29.0,Black,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-12,00:41,,M,1993.0,22.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-12,01:59,,M,1979.0,36.0,Black,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-12,02:14,,M,1953.0,62.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-12,02:28,,M,1973.0,42.0,Black,Speeding,Speeding,False,,No Action,False,16-30 Min,False
+2015-12-12,02:40,,M,1973.0,42.0,White,Call for Service,Other,False,,Citation,False,16-30 Min,False
+2015-12-12,02:42,,F,1979.0,36.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-12,07:23,,M,1979.0,36.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-12,08:45,,F,1954.0,61.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-12,10:20,,M,1993.0,22.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-12,11:02,,M,1992.0,23.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-12,11:11,,M,1967.0,48.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-12,11:32,,M,0.0,,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-12,11:45,,F,1995.0,20.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-12,11:48,,F,1995.0,20.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-12,12:15,,M,1982.0,33.0,Hispanic,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-12,14:42,,M,1981.0,34.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-12,15:37,,M,1974.0,41.0,White,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-12,16:46,,M,1978.0,37.0,White,Registration Violation,Registration/plates,True,"Inventory,Probable Cause",Citation,False,30+ Min,False
+2015-12-12,17:19,,M,1975.0,40.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-12,20:00,,M,1973.0,42.0,Black,Other Traffic Violation,Moving violation,True,Incident to Arrest,Arrest Driver,True,16-30 Min,False
+2015-12-12,20:16,,M,1992.0,23.0,White,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-12,20:16,,,,,,,,False,,,,,False
+2015-12-12,20:18,,F,1989.0,26.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-12,20:33,,M,1996.0,19.0,Black,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-12,21:44,,F,1995.0,20.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-12,21:58,,M,1955.0,60.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-12,22:20,,M,1992.0,23.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-12,22:49,,M,1985.0,30.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-12,23:33,,F,1996.0,19.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-12,23:34,,M,1996.0,19.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-12,23:48,,F,1986.0,29.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-13,00:55,,M,1973.0,42.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-13,01:14,,F,1994.0,21.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-13,01:52,,M,1964.0,51.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-13,03:08,,M,1989.0,26.0,Asian,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-13,04:05,,M,1987.0,28.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-13,04:05,,,,,,,,False,,,,,False
+2015-12-13,07:45,,M,1982.0,33.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-13,08:56,,M,1962.0,53.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-13,10:56,,M,1964.0,51.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-13,11:02,,M,1958.0,57.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-13,11:31,,M,1993.0,22.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-13,11:39,,M,1972.0,43.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-13,12:07,,M,1984.0,31.0,White,Call for Service,Other,False,,Citation,False,0-15 Min,False
+2015-12-13,13:56,,F,1992.0,23.0,White,Speeding,Speeding,False,,Citation,False,16-30 Min,False
+2015-12-13,15:13,,M,1989.0,26.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-13,17:40,,M,1985.0,30.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-13,17:55,,M,1971.0,44.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-14,00:01,,M,1990.0,25.0,White,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-14,00:10,,M,1995.0,20.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-14,01:00,,M,1995.0,20.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-14,02:17,,M,1980.0,35.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-14,02:17,,M,1965.0,50.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-14,02:57,,M,1993.0,22.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-14,06:57,,M,1956.0,59.0,White,Special Detail/Directed Patrol,Other,False,,N/D,False,16-30 Min,False
+2015-12-14,09:04,,M,1983.0,32.0,White,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-14,10:10,,F,1991.0,24.0,Black,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-14,10:22,,F,1995.0,20.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-14,10:54,,M,1988.0,27.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-14,13:42,,M,1994.0,21.0,White,Special Detail/Directed Patrol,Other,False,,N/D,False,0-15 Min,False
+2015-12-14,13:54,,F,1996.0,19.0,Hispanic,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-14,13:56,,F,1990.0,25.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-14,15:07,,M,1978.0,37.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-14,15:18,,M,1992.0,23.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-14,15:33,,,,,,,,False,,,,,False
+2015-12-14,16:31,,F,1996.0,19.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-14,17:08,,,,,,,,False,,,,,False
+2015-12-14,17:30,,M,1994.0,21.0,White,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-14,18:26,,F,1987.0,28.0,Hispanic,Call for Service,Other,False,,Citation,False,16-30 Min,False
+2015-12-14,19:25,,F,1982.0,33.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-14,20:13,,M,1996.0,19.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-14,21:32,,,,,,,,False,,,,,False
+2015-12-15,00:10,,,,,,,,False,,,,,False
+2015-12-15,00:22,,M,1970.0,45.0,White,Equipment/Inspection Violation,Equipment,False,,N/D,False,0-15 Min,False
+2015-12-15,00:24,,M,1987.0,28.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-15,01:28,,M,1992.0,23.0,Hispanic,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-15,02:57,,M,1989.0,26.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-15,02:58,,M,1972.0,43.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-15,06:47,,M,1990.0,25.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-15,07:26,,M,1965.0,50.0,Black,Equipment/Inspection Violation,Equipment,False,,N/D,False,0-15 Min,False
+2015-12-15,08:16,,F,1984.0,31.0,White,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-15,08:55,,M,1960.0,55.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,16-30 Min,False
+2015-12-15,09:47,,M,1996.0,19.0,Black,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-15,10:17,,F,1991.0,24.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-15,11:07,,M,1970.0,45.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-15,11:56,,M,1953.0,62.0,White,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-15,13:01,,M,1960.0,55.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-15,16:00,,M,1983.0,32.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-15,16:08,,M,1989.0,26.0,White,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-16,02:17,,F,1990.0,25.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-16,02:47,,M,1968.0,47.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-16,06:31,,M,1960.0,55.0,Black,Seatbelt Violation,Seat belt,False,,Warning,False,0-15 Min,False
+2015-12-16,06:49,,M,1970.0,45.0,White,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-16,07:00,,F,1960.0,55.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-16,07:15,,F,1959.0,56.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-16,10:45,,M,1967.0,48.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-16,10:48,,F,1981.0,34.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-16,12:11,,M,1976.0,39.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-16,12:30,,M,1992.0,23.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-16,12:49,,M,1976.0,39.0,Black,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-16,13:02,,M,1973.0,42.0,Black,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-16,13:23,,F,1945.0,70.0,White,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-16,14:09,,F,1991.0,24.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-16,14:13,,M,1981.0,34.0,White,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-16,14:52,,M,1975.0,40.0,Hispanic,Other Traffic Violation,Moving violation,True,"Incident to Arrest,Inventory",Arrest Driver,True,30+ Min,False
+2015-12-16,16:20,,F,1971.0,44.0,Hispanic,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-16,17:39,,M,1987.0,28.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-16,20:43,,M,1989.0,26.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-16,20:46,,M,1990.0,25.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-16,23:08,,M,1994.0,21.0,White,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-16,23:31,,F,1992.0,23.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-17,02:00,,M,1982.0,33.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-17,02:02,,M,1994.0,21.0,Black,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-17,03:00,,F,1991.0,24.0,Black,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-17,06:47,,,,,,,,False,,,,,False
+2015-12-17,10:53,,M,1974.0,41.0,Hispanic,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-17,13:43,,F,1988.0,27.0,White,Call for Service,Other,False,,Citation,False,16-30 Min,False
+2015-12-17,15:05,,F,1980.0,35.0,Hispanic,Call for Service,Other,False,,Citation,False,16-30 Min,False
+2015-12-17,17:40,,M,1969.0,46.0,White,Call for Service,Other,False,,No Action,False,16-30 Min,False
+2015-12-17,19:55,,M,1967.0,48.0,Asian,Call for Service,Other,False,,No Action,False,16-30 Min,False
+2015-12-17,23:42,,M,1991.0,24.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-18,00:17,,M,1992.0,23.0,White,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-18,00:32,,F,1994.0,21.0,Hispanic,Registration Violation,Registration/plates,False,,Warning,False,0-15 Min,False
+2015-12-18,01:00,,F,1981.0,34.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-18,01:21,,F,1994.0,21.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-18,02:18,,F,1964.0,51.0,White,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-18,07:41,,F,1970.0,45.0,White,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-18,09:30,,M,1966.0,49.0,White,Registration Violation,Registration/plates,True,Incident to Arrest,No Action,False,16-30 Min,False
+2015-12-18,09:36,,F,1992.0,23.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-18,10:05,,M,1991.0,24.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-18,10:23,,F,1940.0,75.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-18,11:09,,M,1995.0,20.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-18,11:52,,M,1987.0,28.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-18,14:39,,M,1984.0,31.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-18,19:35,,M,1997.0,18.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-18,20:18,,M,1988.0,27.0,Asian,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-18,20:24,,M,1996.0,19.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-18,20:29,,F,1994.0,21.0,Black,Call for Service,Other,False,,Citation,False,0-15 Min,False
+2015-12-18,21:04,,F,1998.0,17.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-18,21:11,,F,1995.0,20.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-18,22:46,,F,1993.0,22.0,White,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-18,22:53,,M,1998.0,17.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-18,23:08,,M,1991.0,24.0,Black,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-18,23:37,,M,1993.0,22.0,Asian,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-19,00:41,,M,1990.0,25.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-19,00:42,,F,1988.0,27.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-19,01:44,,F,1995.0,20.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-19,01:56,,F,1988.0,27.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-19,08:51,,M,1990.0,25.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-19,09:23,,M,1995.0,20.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-19,09:38,,F,1991.0,24.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-19,09:49,,M,1978.0,37.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-19,10:00,,M,1976.0,39.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-19,10:18,,F,1975.0,40.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-19,10:21,,F,1964.0,51.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-19,13:24,,M,1975.0,40.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-19,14:05,,M,1998.0,17.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-19,14:12,,F,1988.0,27.0,White,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-19,14:52,,M,1990.0,25.0,Hispanic,Registration Violation,Registration/plates,False,,Warning,False,0-15 Min,False
+2015-12-19,16:11,,M,1990.0,25.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-19,22:10,,M,1956.0,59.0,White,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-19,22:23,,M,1962.0,53.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-19,22:30,,M,1960.0,55.0,White,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-19,22:59,,F,1991.0,24.0,Hispanic,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-19,23:12,,M,1992.0,23.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-19,23:12,,M,1993.0,22.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-20,00:13,,M,1988.0,27.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-20,00:21,,M,1982.0,33.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-20,00:29,,M,1996.0,19.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-20,01:00,,M,1992.0,23.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-20,03:22,,M,1959.0,56.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-20,09:21,,M,1992.0,23.0,Hispanic,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-20,09:27,,M,1962.0,53.0,Asian,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-20,10:27,,F,1994.0,21.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-20,15:43,,M,1988.0,27.0,Black,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-20,19:01,,M,1964.0,51.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-20,20:25,,M,1964.0,51.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-20,21:59,,M,1980.0,35.0,White,Call for Service,Other,False,,No Action,False,16-30 Min,False
+2015-12-20,22:44,,M,1979.0,36.0,Hispanic,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-20,23:31,,,,,,,,False,,,,,False
+2015-12-21,00:59,,M,1994.0,21.0,Black,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-21,01:39,,M,1986.0,29.0,White,Other Traffic Violation,Moving violation,True,Incident to Arrest,Citation,False,0-15 Min,False
+2015-12-21,02:32,,,,,,,,False,,,,,False
+2015-12-21,02:51,,M,1992.0,23.0,Hispanic,Registration Violation,Registration/plates,False,,Citation,False,16-30 Min,False
+2015-12-21,03:10,,M,1975.0,40.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-21,06:50,,M,1990.0,25.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-21,06:57,,F,0.0,,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-21,07:10,,M,1996.0,19.0,White,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-21,07:34,,M,1988.0,27.0,Black,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-21,08:20,,F,1972.0,43.0,Black,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-21,09:06,,M,1980.0,35.0,White,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-21,09:56,,M,1984.0,31.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-21,09:57,,M,1987.0,28.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-21,13:14,,F,1971.0,44.0,White,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-21,13:43,,M,1989.0,26.0,White,Registration Violation,Registration/plates,False,,No Action,False,0-15 Min,False
+2015-12-21,14:15,,M,1988.0,27.0,White,Other Traffic Violation,Moving violation,False,,Arrest Passenger,True,0-15 Min,False
+2015-12-21,14:27,,M,1996.0,19.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-21,14:28,,F,1992.0,23.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-21,14:47,,M,1966.0,49.0,White,Speeding,Speeding,False,,Citation,False,30+ Min,False
+2015-12-21,15:19,,F,1987.0,28.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-21,15:53,,F,1993.0,22.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-21,16:36,,M,1958.0,57.0,Black,Other Traffic Violation,Moving violation,False,,Citation,False,16-30 Min,False
+2015-12-21,19:03,,F,1995.0,20.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-21,20:22,,F,1995.0,20.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-21,20:30,,M,1976.0,39.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-21,23:31,,F,1972.0,43.0,White,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-22,00:11,,M,1996.0,19.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-22,00:17,,M,1994.0,21.0,Black,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-22,00:58,,F,1992.0,23.0,White,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-22,01:25,,F,1996.0,19.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-22,01:53,,M,1990.0,25.0,Black,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-22,03:18,,M,1995.0,20.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-22,03:35,,F,1945.0,70.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-22,06:34,,M,1991.0,24.0,Black,Other Traffic Violation,Moving violation,False,,N/D,False,30+ Min,False
+2015-12-22,06:36,,M,1982.0,33.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-22,06:53,,M,1982.0,33.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-22,07:01,,M,1993.0,22.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-22,07:03,,,,,,,,False,,,,,False
+2015-12-22,08:30,,M,1989.0,26.0,White,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-22,09:39,,F,1965.0,50.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-22,10:40,,M,1966.0,49.0,White,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-22,10:46,,M,1945.0,70.0,Black,Other Traffic Violation,Moving violation,False,,Citation,False,30+ Min,False
+2015-12-22,12:04,,M,1996.0,19.0,White,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-22,12:53,,,,,,,,False,,,,,False
+2015-12-22,22:44,,F,1993.0,22.0,Black,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-22,22:58,,M,1990.0,25.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-22,23:13,,M,1978.0,37.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-22,23:27,,M,1987.0,28.0,White,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-23,00:23,,F,1984.0,31.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-23,00:42,,M,1972.0,43.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-23,08:40,,M,1977.0,38.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-23,09:59,,F,1999.0,16.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-23,10:49,,M,1972.0,43.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-23,11:18,,M,1955.0,60.0,Hispanic,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-23,11:42,,F,1965.0,50.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-23,15:01,,M,1956.0,59.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-24,04:07,,M,1976.0,39.0,Hispanic,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-24,13:10,,M,1979.0,36.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-24,14:21,,F,1964.0,51.0,White,Call for Service,Other,False,,Citation,False,0-15 Min,False
+2015-12-24,19:04,,M,1985.0,30.0,Hispanic,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-25,09:06,,M,1993.0,22.0,White,Call for Service,Other,False,,Citation,False,0-15 Min,False
+2015-12-25,10:50,,F,1993.0,22.0,Hispanic,Call for Service,Other,False,,Citation,False,0-15 Min,False
+2015-12-25,20:30,,M,1989.0,26.0,White,Call for Service,Other,False,,No Action,False,16-30 Min,False
+2015-12-26,08:43,,F,1989.0,26.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-26,08:47,,M,1983.0,32.0,Black,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-26,09:07,,M,1942.0,73.0,Asian,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-26,09:43,,M,1992.0,23.0,Hispanic,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-26,10:41,,,,,,,,False,,,,,False
+2015-12-26,11:33,,M,1971.0,44.0,White,Registration Violation,Registration/plates,False,,Warning,False,0-15 Min,False
+2015-12-26,11:50,,M,1991.0,24.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-26,13:56,,M,1944.0,71.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-26,14:08,,M,1962.0,53.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-26,16:34,,F,1967.0,48.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-26,18:37,,F,1966.0,49.0,White,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-26,20:22,,M,1947.0,68.0,White,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-26,21:16,,M,1991.0,24.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-26,22:11,,M,1961.0,54.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-26,22:21,,F,1953.0,62.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-26,23:18,,M,1969.0,46.0,Hispanic,Registration Violation,Registration/plates,False,,Arrest Driver,True,16-30 Min,False
+2015-12-26,23:36,,F,1958.0,57.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-27,00:15,,M,1985.0,30.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-27,00:27,,M,1987.0,28.0,Hispanic,Registration Violation,Registration/plates,False,,Arrest Driver,True,16-30 Min,False
+2015-12-27,00:57,,M,1983.0,32.0,Hispanic,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-27,02:54,,F,1990.0,25.0,Hispanic,Call for Service,Other,False,,No Action,False,0-15 Min,False
+2015-12-27,07:34,,F,1970.0,45.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-27,08:09,,F,1986.0,29.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-27,08:33,,M,1950.0,65.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-27,08:48,,M,1972.0,43.0,White,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-27,08:55,,F,1992.0,23.0,White,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-27,09:19,,M,1985.0,30.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-27,09:41,,,,,,,,False,,,,,False
+2015-12-27,10:01,,M,1972.0,43.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-27,10:09,,M,1982.0,33.0,Black,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-27,10:23,,M,1972.0,43.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-27,10:30,,M,1997.0,18.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-27,11:50,,M,1979.0,36.0,White,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-27,12:03,,M,1988.0,27.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-27,13:27,,F,1980.0,35.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-27,13:50,,F,1995.0,20.0,White,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-27,14:10,,M,1986.0,29.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-27,15:51,,M,1985.0,30.0,Black,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-27,17:27,,M,1959.0,56.0,White,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-27,17:30,,M,1952.0,63.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-27,17:43,,F,1968.0,47.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-27,20:39,,F,1986.0,29.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-27,20:49,,M,1965.0,50.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-27,22:44,,M,1968.0,47.0,Black,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-27,23:06,,M,1970.0,45.0,White,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-27,23:18,,M,1986.0,29.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-27,23:32,,F,1984.0,31.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-27,23:43,,M,1997.0,18.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-27,23:54,,M,1988.0,27.0,White,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-28,00:30,,M,1984.0,31.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-28,02:28,,,,,,,,False,,,,,False
+2015-12-28,06:47,,M,1986.0,29.0,White,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-28,06:49,,M,1982.0,33.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-28,06:51,,M,1960.0,55.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-28,07:29,,M,1954.0,61.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,30+ Min,False
+2015-12-28,08:28,,M,1978.0,37.0,White,Other Traffic Violation,Moving violation,False,,No Action,False,16-30 Min,False
+2015-12-28,09:01,,F,1988.0,27.0,White,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-28,09:23,,F,1959.0,56.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-28,09:30,,F,1983.0,32.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-28,10:25,,M,1988.0,27.0,White,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-28,10:38,,F,1995.0,20.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-28,11:02,,M,1977.0,38.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-28,11:05,,F,1996.0,19.0,White,APB,Other,True,Incident to Arrest,Citation,False,16-30 Min,True
+2015-12-28,11:28,,M,1965.0,50.0,White,Speeding,Speeding,False,,Citation,False,16-30 Min,False
+2015-12-28,12:01,,,,,,,,False,,,,,False
+2015-12-28,13:39,,M,1990.0,25.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-28,14:16,,F,1988.0,27.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-28,14:34,,M,1992.0,23.0,Hispanic,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-28,21:41,,M,1999.0,16.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-28,22:43,,M,1983.0,32.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-28,22:59,,M,1971.0,44.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-29,00:11,,M,1984.0,31.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-29,00:58,,F,1980.0,35.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-29,05:31,,F,1960.0,55.0,White,Call for Service,Other,False,,No Action,False,16-30 Min,False
+2015-12-29,11:05,,M,1970.0,45.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-29,11:16,,F,1984.0,31.0,White,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-29,12:11,,M,1996.0,19.0,Hispanic,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-29,13:28,,M,1990.0,25.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-29,14:22,,M,1974.0,41.0,White,Other Traffic Violation,Moving violation,False,,No Action,False,0-15 Min,False
+2015-12-29,15:16,,M,1972.0,43.0,Hispanic,Seatbelt Violation,Seat belt,False,,Warning,False,0-15 Min,False
+2015-12-29,16:41,,M,1991.0,24.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,30+ Min,False
+2015-12-29,23:22,,M,1989.0,26.0,White,Seatbelt Violation,Seat belt,False,,Warning,False,0-15 Min,False
+2015-12-29,23:25,,M,1987.0,28.0,Black,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-30,00:39,,M,1992.0,23.0,White,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-30,02:21,,F,1994.0,21.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-30,06:57,,M,1956.0,59.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-30,07:32,,F,1967.0,48.0,Black,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-30,07:51,,F,1978.0,37.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-30,08:24,,M,1951.0,64.0,White,Special Detail/Directed Patrol,Other,False,,N/D,False,16-30 Min,False
+2015-12-30,08:35,,F,1990.0,25.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-30,08:51,,F,1987.0,28.0,Hispanic,Speeding,Speeding,True,"Probable Cause,Reasonable Suspicion",Citation,False,30+ Min,True
+2015-12-30,09:49,,F,1991.0,24.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-30,10:15,,M,1983.0,32.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-30,10:38,,M,1994.0,21.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,16-30 Min,False
+2015-12-30,10:56,,M,1989.0,26.0,Asian,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-30,11:08,,M,1990.0,25.0,Hispanic,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-30,11:31,,M,1985.0,30.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-30,11:42,,F,1966.0,49.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-30,13:15,,M,1992.0,23.0,White,Seatbelt Violation,Seat belt,True,Incident to Arrest,Arrest Passenger,True,16-30 Min,False
+2015-12-30,13:24,,M,1967.0,48.0,White,Equipment/Inspection Violation,Equipment,False,,N/D,False,30+ Min,False
+2015-12-30,13:27,,,,,,,,False,,,,,False
+2015-12-30,15:42,,M,1974.0,41.0,White,Speeding,Speeding,False,,Citation,False,16-30 Min,False
+2015-12-30,16:19,,F,1989.0,26.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-30,17:07,,,,,,,,False,,,,,False
+2015-12-30,17:39,,M,1996.0,19.0,Hispanic,Speeding,Speeding,False,,Citation,False,16-30 Min,False
+2015-12-30,23:26,,F,1994.0,21.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-30,23:33,,F,1983.0,32.0,Hispanic,Seatbelt Violation,Seat belt,False,,Citation,False,0-15 Min,False
+2015-12-31,00:00,,F,1993.0,22.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-31,00:01,,M,1966.0,49.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-31,06:31,,M,1989.0,26.0,White,Other Traffic Violation,Moving violation,False,,Citation,False,0-15 Min,False
+2015-12-31,06:32,,M,1975.0,40.0,White,Speeding,Speeding,False,,Citation,False,16-30 Min,False
+2015-12-31,06:49,,M,1943.0,72.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-31,07:06,,M,1970.0,45.0,Black,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-31,07:14,,M,1978.0,37.0,Hispanic,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-31,07:27,,M,1997.0,18.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-31,08:14,,F,1960.0,55.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-31,08:41,,M,1992.0,23.0,White,Speeding,Speeding,False,,No Action,False,0-15 Min,False
+2015-12-31,09:17,,F,1995.0,20.0,White,Speeding,Speeding,False,,Warning,False,16-30 Min,False
+2015-12-31,13:50,,F,1982.0,33.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-31,14:21,,F,1988.0,27.0,White,Equipment/Inspection Violation,Equipment,False,,Citation,False,0-15 Min,False
+2015-12-31,15:36,,F,1996.0,19.0,Hispanic,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-31,16:38,,F,1988.0,27.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-31,19:44,,F,1969.0,46.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-31,19:55,,F,1974.0,41.0,White,Registration Violation,Registration/plates,False,,Citation,False,0-15 Min,False
+2015-12-31,20:20,,M,1993.0,22.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-31,20:25,,M,1992.0,23.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-31,20:27,,M,1986.0,29.0,White,Speeding,Speeding,False,,Warning,False,0-15 Min,False
+2015-12-31,20:35,,F,1982.0,33.0,White,Equipment/Inspection Violation,Equipment,False,,Warning,False,0-15 Min,False
+2015-12-31,20:45,,M,1992.0,23.0,White,Other Traffic Violation,Moving violation,False,,Warning,False,0-15 Min,False
+2015-12-31,21:42,,M,1993.0,22.0,White,Speeding,Speeding,False,,Citation,False,0-15 Min,False
+2015-12-31,22:46,,M,1959.0,56.0,Hispanic,Speeding,Speeding,False,,Citation,False,0-15 Min,False
